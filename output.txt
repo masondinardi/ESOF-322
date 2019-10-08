@@ -1,0 +1,31 @@
+
+
+--------------------------------
+Database type: RELATIONAL
+
+Data stored using the Table Store strategy
+[dog, cat, fish]
+
+Data stored using the Document Store strategy
+[dog, cat, fish]
+
+--------------------------------
+Database type: NOSQL
+
+Data stored using the Document Store strategy
+[dog, cat, fish]
+
+Data stored using the Table Store strategy
+[dog, cat, fish]
+
+--------------------------------
+Database type: GRAPH
+
+Data stored using the Node Store strategy
+[dog, cat, fish]
+
+Data stored using the Document Store strategy
+[dog, cat, fish]
+
+--------------------------------
+Finished Execution
